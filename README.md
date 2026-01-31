@@ -1,6 +1,6 @@
 # Processamento da Informação 🚀
 
-Bem-vindo ao repositório de atividades práticas da disciplina! Aqui você encontrará os notebooks para as aulas e exercícios.
+Bem-vindo ao repositório de aulas práticas da disciplina! Aqui você encontrará os notebooks para as aulas e exercícios.
 
 ## 📚 Repositório de Colabs
 
