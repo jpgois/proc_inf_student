@@ -6,7 +6,7 @@ Bem-vindo ao repositório de aulas práticas da disciplina! Aqui você encontrar
 
 Clique no link abaixo para abrir a aula da semana diretamente no Google Colab:
 
-* **Semana 01:** [Abrir no Google Colab](https://colab.research.google.com/github/jpgois/proc_inf_student/blob/main/semana_01_algoritmos_sequenciais.ipynb)
+* **Semana 01 - Algoritmos Sequenciais** [![Abra no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpgois/proc_inf_student/blob/main/semana_01_algoritmos_sequenciais.ipynb)
 
 ---
 
