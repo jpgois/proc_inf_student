@@ -12,8 +12,6 @@ Para garantir que você consiga salvar as suas resoluções e estudar depois, si
     * *Dica: Renomeie o arquivo com seu nome ou com a data para facilitar sua organização.*
 4.  **Onde fica salvo?** Todas as alterações que você fizer na sua cópia serão salvas automaticamente no seu Google Drive, na pasta chamada `Colab Notebooks`.
 
----
-
 *Bons estudos!*
-
+---
 * Semana 01 Algoritmos Sequenciais [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpgois/proc_inf_student/blob/main/semana_01_algoritmos_sequenciais_student_processamento_da_informacao.ipynb)
