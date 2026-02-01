@@ -2,14 +2,6 @@
 
 Bem-vindo ao repositório de aulas práticas da disciplina! Aqui você encontrará os notebooks das aulas e dos exercícios.
 
-## 📚 Repositório de Colabs
-
-Clique no link abaixo para abrir a aula da semana diretamente no Google Colab:
-
-* **Semana 01 - Algoritmos Sequenciais** [![Abra no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpgois/proc_inf_student/blob/main/semana_01_algoritmos_sequenciais.ipynb)
-
----
-
 ## ⚠️ Instruções Importantes (Leia antes de começar!)
 
 Para garantir que você consiga salvar as suas resoluções e estudar depois, siga este passo a passo sempre que abrir um novo arquivo:
@@ -21,11 +13,6 @@ Para garantir que você consiga salvar as suas resoluções e estudar depois, si
 4.  **Onde fica salvo?** Todas as alterações que você fizer na sua cópia serão salvas automaticamente no seu Google Drive, na pasta chamada `Colab Notebooks`.
 
 ---
-
-## 🛠️ Tecnologias Utilizadas
-* Python 3
-* Google Colaboratory
-* Markdown & LaTeX para documentação
 
 *Bons estudos!*
 
