@@ -15,3 +15,5 @@ Para garantir que você consiga salvar as suas resoluções e estudar depois, si
 *Bons estudos!*
 ---
 * Semana 01 Algoritmos Sequenciais [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpgois/proc_inf_student/blob/main/semana_01_algoritmos_sequenciais_student_processamento_da_informacao.ipynb)
+
+* Semana 02 Condicional [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpgois/proc_inf_student/blob/main/semana_02_condicional_student_processamento_da_informacao.ipynb)
