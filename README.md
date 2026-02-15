@@ -23,3 +23,5 @@ Para garantir que você consiga salvar as suas resoluções e estudar depois, si
 
 * Semana 07 Array Vetor Lista Processamento Da Informacao.Ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpgois/proc_inf_student/blob/main/semana_07_array_vetor_lista_processamento_da_informacao.ipynb)
 * Semana 09 Matrizes Processamento Da Informacao.Ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpgois/proc_inf_student/blob/main/semana_09_matrizes_processamento_da_informacao.ipynb)
+* Semana 07 Array Vetor Lista [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpgois/proc_inf_student/blob/main/semana_07_array_vetor_lista_student_processamento_da_informacao.ipynb)
+* Semana 09 Matrizes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpgois/proc_inf_student/blob/main/semana_09_matrizes_student_processamento_da_informacao.ipynb)
